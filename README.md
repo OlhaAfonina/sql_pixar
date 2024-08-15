@@ -12,12 +12,12 @@ Clone this repository to your local machine:
    git clone https://github.com/OlhaAfonina/sql_pixar.git
 
 
-2. Create the Database
+### 2. Create the Database
 Log into your SQL environment (e.g., MySQL, PostgreSQL, etc.) and create a new database:
 
 CREATE DATABASE pixar;
 
-3. Import Data
+### 3. Import Data
 source pixar.sql;
 
 Usage
@@ -56,10 +56,10 @@ FROM pixar;
   - `Worldwide(million)` (INT): The movie's worldwide box office revenue in millions of dollars.
   - `Rotten Tomatoes` (TEXT): The movie's rating on Rotten Tomatoes.
 
-License
+### License
 
 This project is licensed under the MIT License.
 
-Contact
+### Contact
 
 If you have any questions or suggestions, please contact me at afonina.olha@gmail.com.
